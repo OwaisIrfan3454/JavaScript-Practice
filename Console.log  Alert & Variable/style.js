@@ -2,7 +2,6 @@ console.log("owais irfan");
 alert("owais");
 alert("abbasi");
 
-
 var myAge = "30";
 console.log(myAge);
 
